@@ -13,7 +13,6 @@ git push origin master
 
 
 cd ../..
-rm -rf temp
-
+rm - rf temp
 
 
